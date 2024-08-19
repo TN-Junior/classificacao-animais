@@ -1,14 +1,12 @@
 # Animal Species Image Classification
-Este projeto é dedicado ao treinamento de um modelo de aprendizado de máquina para classificar imagens de diferentes espécies de animais. Usaremos Jupyter Notebook para desenvolver e treinar o modelo.
+This project is dedicated to training a machine learning model to classify images of different animal species. We will use Jupyter Notebook to develop and train the model.
 
 
 
-Introdução
+Introduction
 
-A classificação de imagens é uma tarefa essencial em muitos campos, incluindo biologia, conservação e zoologia. Este projeto utiliza técnicas de aprendizado profundo para treinar um modelo capaz de identificar diferentes espécies de animais a partir de suas imagens.
+Image classification is an essential task in many fields, including biology, conservation and zoology. This project uses deep learning techniques to train a model capable of identifying different species of animals from their images.
 
-Requisitos
-Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
-Python 3.8 ou superior
-Jupyter Notebook
+
+
