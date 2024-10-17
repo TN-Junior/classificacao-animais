@@ -3,7 +3,7 @@ This project is dedicated to training a machine learning model to classify image
 
 
 
-Introduction
+Introduction:
 
 Image classification is an essential task in many fields, including biology, conservation and zoology. This project uses deep learning techniques to train a model capable of identifying different species of animals from their images.
 
